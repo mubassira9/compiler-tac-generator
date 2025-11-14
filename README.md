@@ -29,6 +29,7 @@ a+b*c
 ✔ Output TAC
 t1 = b * c
 t2 = a + t1
+
 Final result stored in: t2
 
 # How It Works
