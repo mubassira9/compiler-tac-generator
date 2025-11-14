@@ -18,11 +18,14 @@ a*b+c*d
 x+y/z-w
 
 ★Automatically creates temporary variables: t1, t2, t3, ...
+
 ★Clean and beginner-friendly implementation
+
 ★Ideal for Compiler Design Lab 
 
 # Example Input
 a+b*c
+
 ✔ Output TAC
 t1 = b * c
 t2 = a + t1
